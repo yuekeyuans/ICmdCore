@@ -1,4 +1,6 @@
-#include <QCoreApplication>
+﻿#include <QCoreApplication>
+
+#include <QtNetwork>
 
 int main(int argc, char *argv[])
 {
